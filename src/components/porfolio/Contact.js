@@ -90,15 +90,16 @@ const Contact = ({ show }) => {
                       <i className="fa fa-github" aria-hidden="true"></i>
                     </a>
                   </li>
-                  {/* <li className="jsfiddle">
+                  <li className="jsfiddle">
                     <a
-                      href="https://jsfiddle.net/user/imharshm"
+                      href="https://dev.to/pranavkumar77"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      <i className="fa fa-jsfiddle" aria-hidden="true"></i>
+                      <img align="center" src="https://tse2.mm.bing.net/th?id=OIP.1kt0FHPqyem6vJkp2F5p2AHaHa&pid=Api&P=0"
+           alt="pranavkumar77" height="16" width="20" style={{'margin': '0'}}/>
                     </a>
-                  </li> */}
+                  </li>
                   <li className="twitter">
                     <a
                       href="https://twitter.com/PranavP36771400"
