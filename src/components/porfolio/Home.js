@@ -20,7 +20,7 @@ const Home = ({ handleActive, activeMenu, theme, handleChangeTheme }) => {
           <img src={ProfilePic} alt="profile" />
         </div>
         <div className="title">Pranavkumar Patil</div>
-        <div className="subtitle">Front-end Developer</div>
+        <div className="subtitle">Front-end Developer 🚀</div>
 
         <div className="social">
           <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/pranavkumar-patil-a43aa4160/">
@@ -29,14 +29,11 @@ const Home = ({ handleActive, activeMenu, theme, handleChangeTheme }) => {
           <a rel="noreferrer" target="_blank" href="https://github.com/Pranavkumar77">
             <i className="fa fa-github"></i>
           </a>
-          {/* <a rel="noreferrer" target="_blank" href="https://jsfiddle.net/user/imharshm">
-            <i className="fa fa-jsfiddle"></i>
+          <a href="https://dev.to/pranavkumar77" target="blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.1kt0FHPqyem6vJkp2F5p2AHaHa&pid=Api&P=0"
+           alt="pranavkumar77" height="18" width="20" style={{'marginBottom': '10px','borderRadius': '10%'}}/>
           </a>
-          <a rel="noreferrer" target="_blank" href="https://www.freelancer.com/u/harshalhmahajan">
-            <i className="fa fa-foursquare"></i>
-          </a> */}
         </div>
-
+        
         <div className="lnks">
           <a
             href="https://drive.google.com/file/d/1uG3BV60ii9yIYCM5AiNwd-syy9vGi3IZ/view?usp=sharing"
