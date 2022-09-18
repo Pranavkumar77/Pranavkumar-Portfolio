@@ -129,7 +129,7 @@ const Resume = ({ show }) => {
                 <ul className="text-center">
                   <li>
                     <div className="circle-progress p97">
-                      <span>97%</span>
+                      <span>85%</span>
                       <div className="slice">
                         <div className="bar"></div>
                         <div className="fill"></div>
@@ -139,7 +139,7 @@ const Resume = ({ show }) => {
                   </li>
                   <li>
                     <div className="circle-progress p85">
-                      <span>85%</span>
+                      <span>80%</span>
                       <div className="slice">
                         <div className="bar"></div>
                         <div className="fill"></div>
@@ -149,34 +149,34 @@ const Resume = ({ show }) => {
                   </li>
                   <li>
                     <div className="circle-progress p85">
+                      <span>80%</span>
+                      <div className="slice">
+                        <div className="bar"></div>
+                        <div className="fill"></div>
+                      </div>
+                    </div>
+                    <div className="name">JavaScript ES6</div>
+                  </li>
+                  <li>
+                    <div className="circle-progress p95">
                       <span>85%</span>
                       <div className="slice">
                         <div className="bar"></div>
                         <div className="fill"></div>
                       </div>
                     </div>
-                    <div className="name">JavaScript jQuery</div>
+                    <div className="name">Material UI</div>
                   </li>
                   <li>
-                    <div className="circle-progress p95">
-                      <span>95%</span>
-                      <div className="slice">
-                        <div className="bar"></div>
-                        <div className="fill"></div>
-                      </div>
-                    </div>
-                    <div className="name">Boostrap 3/4</div>
-                  </li>
-                  {/* <li>
                     <div className="circle-progress p75">
-                      <span>75%</span>
+                      <span>40%</span>
                       <div className="slice">
                         <div className="bar"></div>
                         <div className="fill"></div>
                       </div>
                     </div>
-                    <div className="name">Angular</div>
-                  </li> */}
+                    <div className="name">Redux</div>
+                  </li>
                 </ul>
               </div>
             </div>
