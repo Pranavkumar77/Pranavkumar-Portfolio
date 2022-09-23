@@ -23,7 +23,7 @@ const Home = ({ handleActive, activeMenu, theme, handleChangeTheme }) => {
         <div className="subtitle">Front-end Developer 🚀</div>
 
         <div className="social">
-          <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/pranavkumar-patil-a43aa4160/">
+          <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/pranavkumar77/">
             <i className="fa fa-linkedin-square"></i>
           </a>
           <a rel="noreferrer" target="_blank" href="https://github.com/Pranavkumar77">
@@ -36,7 +36,7 @@ const Home = ({ handleActive, activeMenu, theme, handleChangeTheme }) => {
         
         <div className="lnks">
           <a
-            href="https://drive.google.com/file/d/1uG3BV60ii9yIYCM5AiNwd-syy9vGi3IZ/view?usp=sharing"
+            href="https://drive.google.com/drive/u/0/my-drive"
             className="lnk"
             rel="noreferrer"
             target="_blank"
