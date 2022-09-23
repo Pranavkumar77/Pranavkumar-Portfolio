@@ -36,7 +36,7 @@ const Home = ({ handleActive, activeMenu, theme, handleChangeTheme }) => {
         
         <div className="lnks">
           <a
-            href="https://drive.google.com/drive/u/0/my-drive"
+            href="https://drive.google.com/file/d/1WPEOyf3On5PTq5Hw8XIuZ_S_vR5BAqhJ/view?usp=sharing"
             className="lnk"
             rel="noreferrer"
             target="_blank"
