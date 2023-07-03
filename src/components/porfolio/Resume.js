@@ -28,7 +28,7 @@ const Resume = ({ show }) => {
                 <div className="resume-item active">
                   <div className="date">April 2021 - Present</div>
                   <div className="duration">
-                    <i className="fa fa-circle"></i>1.3Y
+                    2.1 Years
                   </div>
                   <div className="name">Associate System Engineer </div>
                   <div className="company">
@@ -36,13 +36,13 @@ const Resume = ({ show }) => {
                       Tata Consultancy Services
                     </a>
                   </div>
-                  <p>Working on react app, creatring common component using storybook.</p>
-                  <p>Fixing UI issues and optimizing css code.</p>
+                  <p>Experience in Working on web in the Supply Chain Domain, creating common component using storybook.</p>
+                  <p>Fixing UI issues and optimizing the code.</p>
                 </div>
                 <div className="resume-item">
                   <div className="date">Nov 2020 - April 2021</div>
                   <div className="duration">
-                    <i className="fa fa-circle"></i>6M
+                   6 Months
                   </div>
                   <div className="name">Trainee software Engineer</div>
                   <div className="company">

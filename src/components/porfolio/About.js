@@ -21,7 +21,7 @@ const About = ({ show }) => {
             <div className="col-12 py-4">
               <ul className="text-box">
                 <li>
-                  A result oriented 1.7+ years of professional experience in
+                   Expertise in
                   <strong> UI/ Front End Web Development</strong> using different types of Web
                   Technologies.
                 </li>
